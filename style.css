@@ -1,0 +1,32 @@
+body {
+    font-family: Helvetica, sans-serif;
+    padding: 30px;
+}
+
+input[type="number"] {
+    margin-bottom: 1rem;
+}
+
+#calculate_roots_button {
+    text-transform: uppercase;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+#calculate_roots_button:hover {
+    background-color: #000099;
+    transition: 0.5s;
+}
+
+#form_id {
+    border: double;
+    padding: 30px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
