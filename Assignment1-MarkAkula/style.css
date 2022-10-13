@@ -40,8 +40,8 @@ button {
   text-align: center;
   font-size: 20px;
   margin: 4px 2px;
-  opacity: 0.9;
-  transition: 0.3s;
+  opacity: 0.6;
+  transition: 0.5s;
   display: inline-block;
   cursor: pointer;
   text-transform: uppercase;
