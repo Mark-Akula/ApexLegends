@@ -1,12 +1,12 @@
 body {
   font-size: 1.3rem;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-image: url("apexlegendsbackground.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   color: rgba(255, 255, 255, 0.904);
-  text-align: center;
+  text-align: left;
 }
 
 main {
