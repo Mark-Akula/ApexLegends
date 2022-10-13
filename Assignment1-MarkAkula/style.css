@@ -5,13 +5,13 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  color: rgba(255, 255, 255, 0.904);
+  color: rgba(231, 24, 24, 0.904);
   text-align: center;
 }
 
 main {
   display: flex;
-  flex-direction: column-reverse;
+  flex-direction: column;
   align-items: center;
   padding: 0 calc((100vw - 1120px) / 2); 
 }
