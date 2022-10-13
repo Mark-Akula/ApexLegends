@@ -6,7 +6,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   color: rgba(255, 255, 255, 0.904);
-  text-align: left;
+  text-align: center;
 }
 
 main {
@@ -29,7 +29,7 @@ img {
 }
 
 .text-bold {
-  font-weight: bold;
+  font-weight: lighter
 }
 
 button {
