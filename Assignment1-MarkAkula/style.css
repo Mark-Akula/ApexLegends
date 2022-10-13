@@ -13,7 +13,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0 calc((100vw - 1120px) / 2); 
+  padding: 0 calc((100vw - 1150px) / 2); 
 }
 
 img {
